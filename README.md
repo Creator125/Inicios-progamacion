@@ -1,0 +1,1 @@
+Estas  son practicas que he hecho con el objetivo de aprender progamación y algoritmo de forma autodidacta.
